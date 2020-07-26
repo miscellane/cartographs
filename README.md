@@ -1,6 +1,6 @@
 ## Cartographs
 
-For reading of cartographic boundary files
+For reading cartographic boundary files
 
 <br>
 
