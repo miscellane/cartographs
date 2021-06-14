@@ -27,7 +27,7 @@ class Boundaries:
         """
 
         if not blob.crs == self.crs:
-            blob.to_crs('epsg:{}'.format(self.crs))
+            blob.to_crs(epsg=self.crs, inplace=True)
 
         return blob
 
