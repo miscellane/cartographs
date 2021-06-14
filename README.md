@@ -8,7 +8,7 @@ For reading cartographic boundary files
 
 Example:
 
-* [County Level Gazetteer](https://colab.research.google.com/github/miscellane/cartographs/blob/develop/notebooks/introduction.ipynb){:target="_blank"}
+* [County Level Gazetteer](https://colab.research.google.com/github/miscellane/cartographs/blob/develop/notebooks/introduction.ipynb) 
 
 <br>
 
