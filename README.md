@@ -1,3 +1,5 @@
+<br>
+
 ## Cartographs
 
 For reading cartographic boundary files
@@ -12,18 +14,23 @@ Example:
 
 <br>
 
-### Anaconda
+### Development Notes
+
+The environment is [miscellaneous](https://github.com/briefings/energy#development-notes).  In relation to requirements.txt
 
 ```bash
-  conda create --prefix ...geo
-  conda activate geo
-
-  conda install -c anaconda python=3.7.7 geopandas  
-  conda install -c anaconda pywin32 jupyterlab nodejs   
+    conda activate miscellaneous
+    pip freeze -r docs/filter.txt > requirements.txt
 ```
 
-And for geopy & quantities
+The packages ``geopy`` & ``quantities`` are installed via ``pip install``.
 
-```bash
-  pip install ...    
-```
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
